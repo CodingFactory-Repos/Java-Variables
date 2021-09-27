@@ -2,7 +2,7 @@
 
 ☕️ - Exercise to learn how to use variables in Java
 
-## Where is the game file located?
+## Where is the file located?
 
 ```bash
 $ src/me/Main.java
